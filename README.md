@@ -17,8 +17,7 @@
    Update the directory path of the icon in the code to the correct location on your system.
 
 ## Sample Output
-(Include space here for your sample output images or descriptions)
+![Screenshot 2024-11-19 214024](https://github.com/user-attachments/assets/3055d3d9-28cd-453e-b684-1fbc772be5d8)
 
----
 
-Feel free to customize this further to better fit your needs!
+
