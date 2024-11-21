@@ -1,6 +1,6 @@
-# 3D Craft
+# Craft3D
 
-**3D Craft** is a powerful 3D editing system built using VTK (Visualization Toolkit) and PyQt5. It allows users to create, visualize, and interact with complex 3D models and data. This tool is ideal for applications in medical imaging, scientific visualization, and computer graphics.
+**Craft3D** is a powerful 3D editing system built using VTK (Visualization Toolkit) and PyQt5. It allows users to create, visualize, and interact with complex 3D models and data. This tool is ideal for applications in medical imaging, scientific visualization, and computer graphics.
 
 ## Features
 - Render 3D models including polygonal meshes, point clouds, and volumetric data.
